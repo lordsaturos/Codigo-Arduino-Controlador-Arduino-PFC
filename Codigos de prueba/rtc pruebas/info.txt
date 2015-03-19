@@ -1,0 +1,5 @@
+hay que cambiar la pila.
+
+sale formato de hora rara. Parece ser que es problema de la pila
+
+Conectar el cable Ds a un pin digital.
